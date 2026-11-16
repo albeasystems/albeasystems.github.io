@@ -1,0 +1,102 @@
+# Ad Monetization Tracker
+
+> Ad Monetization Tracker is a free iPhone app that shows the earnings of your own Google AdMob and Google AdSense accounts: revenue, eCPM, impressions, clicks, countries, ad formats, apps and sites, a daily calendar, a monthly goal and an estimated payment balance, plus home screen widgets. You sign in with Google on the device with read-only access; the app has no server and no account of its own. Published by Albea Systems. Not affiliated with, endorsed or sponsored by Google.
+
+## Key facts
+
+- Platform: iPhone and iPad, iOS 17 or later. No Android version.
+- Price: free with ads. A one-time in-app purchase (Pro) removes ads and unlocks alerts and PDF or CSV reports; a rewarded video gives one hour without ads.
+- Data: Google AdMob API and AdSense Management API, read-only, requested by the app on the device. Figures are estimates that Google finalises at month end; the payment balance is an app estimate.
+- Sample data: the app works without an account on built-in sample data.
+- Languages of the app and of this site: English, Español, Français, Italiano, Deutsch, Português, العربية, 简体中文, हिन्दी, 日本語, 한국어, Tiếng Việt.
+- Download: https://apps.apple.com/
+- Contact: albeasystems@gmail.com
+
+## English
+
+- [Home](https://albeasystems.github.io/ad-monetization-tracker/en/) (Markdown: https://albeasystems.github.io/ad-monetization-tracker/en/index.md)
+- [Support](https://albeasystems.github.io/ad-monetization-tracker/en/support/)
+- [Privacy policy](https://albeasystems.github.io/ad-monetization-tracker/en/privacy/)
+- [Terms of use](https://albeasystems.github.io/ad-monetization-tracker/en/terms/)
+
+## Español
+
+- [Inicio](https://albeasystems.github.io/ad-monetization-tracker/es/) (Markdown: https://albeasystems.github.io/ad-monetization-tracker/es/index.md)
+- [Soporte](https://albeasystems.github.io/ad-monetization-tracker/es/support/)
+- [Política de privacidad](https://albeasystems.github.io/ad-monetization-tracker/es/privacy/)
+- [Términos de uso](https://albeasystems.github.io/ad-monetization-tracker/es/terms/)
+
+## Français
+
+- [Accueil](https://albeasystems.github.io/ad-monetization-tracker/fr/) (Markdown: https://albeasystems.github.io/ad-monetization-tracker/fr/index.md)
+- [Assistance](https://albeasystems.github.io/ad-monetization-tracker/fr/support/)
+- [Politique de confidentialité](https://albeasystems.github.io/ad-monetization-tracker/fr/privacy/)
+- [Conditions d'utilisation](https://albeasystems.github.io/ad-monetization-tracker/fr/terms/)
+
+## Italiano
+
+- [Home](https://albeasystems.github.io/ad-monetization-tracker/it/) (Markdown: https://albeasystems.github.io/ad-monetization-tracker/it/index.md)
+- [Assistenza](https://albeasystems.github.io/ad-monetization-tracker/it/support/)
+- [Informativa sulla privacy](https://albeasystems.github.io/ad-monetization-tracker/it/privacy/)
+- [Termini d'uso](https://albeasystems.github.io/ad-monetization-tracker/it/terms/)
+
+## Deutsch
+
+- [Start](https://albeasystems.github.io/ad-monetization-tracker/de/) (Markdown: https://albeasystems.github.io/ad-monetization-tracker/de/index.md)
+- [Support](https://albeasystems.github.io/ad-monetization-tracker/de/support/)
+- [Datenschutzerklärung](https://albeasystems.github.io/ad-monetization-tracker/de/privacy/)
+- [Nutzungsbedingungen](https://albeasystems.github.io/ad-monetization-tracker/de/terms/)
+
+## Português
+
+- [Início](https://albeasystems.github.io/ad-monetization-tracker/pt/) (Markdown: https://albeasystems.github.io/ad-monetization-tracker/pt/index.md)
+- [Suporte](https://albeasystems.github.io/ad-monetization-tracker/pt/support/)
+- [Política de privacidade](https://albeasystems.github.io/ad-monetization-tracker/pt/privacy/)
+- [Termos de uso](https://albeasystems.github.io/ad-monetization-tracker/pt/terms/)
+
+## العربية
+
+- [الرئيسية](https://albeasystems.github.io/ad-monetization-tracker/ar/) (Markdown: https://albeasystems.github.io/ad-monetization-tracker/ar/index.md)
+- [الدعم](https://albeasystems.github.io/ad-monetization-tracker/ar/support/)
+- [سياسة الخصوصية](https://albeasystems.github.io/ad-monetization-tracker/ar/privacy/)
+- [شروط الاستخدام](https://albeasystems.github.io/ad-monetization-tracker/ar/terms/)
+
+## 简体中文
+
+- [首页](https://albeasystems.github.io/ad-monetization-tracker/zh/) (Markdown: https://albeasystems.github.io/ad-monetization-tracker/zh/index.md)
+- [支持](https://albeasystems.github.io/ad-monetization-tracker/zh/support/)
+- [隐私政策](https://albeasystems.github.io/ad-monetization-tracker/zh/privacy/)
+- [使用条款](https://albeasystems.github.io/ad-monetization-tracker/zh/terms/)
+
+## हिन्दी
+
+- [होम](https://albeasystems.github.io/ad-monetization-tracker/hi/) (Markdown: https://albeasystems.github.io/ad-monetization-tracker/hi/index.md)
+- [सहायता](https://albeasystems.github.io/ad-monetization-tracker/hi/support/)
+- [गोपनीयता नीति](https://albeasystems.github.io/ad-monetization-tracker/hi/privacy/)
+- [उपयोग की शर्तें](https://albeasystems.github.io/ad-monetization-tracker/hi/terms/)
+
+## 日本語
+
+- [ホーム](https://albeasystems.github.io/ad-monetization-tracker/ja/) (Markdown: https://albeasystems.github.io/ad-monetization-tracker/ja/index.md)
+- [サポート](https://albeasystems.github.io/ad-monetization-tracker/ja/support/)
+- [プライバシーポリシー](https://albeasystems.github.io/ad-monetization-tracker/ja/privacy/)
+- [利用規約](https://albeasystems.github.io/ad-monetization-tracker/ja/terms/)
+
+## 한국어
+
+- [홈](https://albeasystems.github.io/ad-monetization-tracker/ko/) (Markdown: https://albeasystems.github.io/ad-monetization-tracker/ko/index.md)
+- [지원](https://albeasystems.github.io/ad-monetization-tracker/ko/support/)
+- [개인정보 처리방침](https://albeasystems.github.io/ad-monetization-tracker/ko/privacy/)
+- [이용약관](https://albeasystems.github.io/ad-monetization-tracker/ko/terms/)
+
+## Tiếng Việt
+
+- [Trang chủ](https://albeasystems.github.io/ad-monetization-tracker/vi/) (Markdown: https://albeasystems.github.io/ad-monetization-tracker/vi/index.md)
+- [Hỗ trợ](https://albeasystems.github.io/ad-monetization-tracker/vi/support/)
+- [Chính sách quyền riêng tư](https://albeasystems.github.io/ad-monetization-tracker/vi/privacy/)
+- [Điều khoản sử dụng](https://albeasystems.github.io/ad-monetization-tracker/vi/terms/)
+
+## Optional
+
+- [Full text of the site for assistants](https://albeasystems.github.io/ad-monetization-tracker/llms-full.txt)
+- [Sitemap](https://albeasystems.github.io/ad-monetization-tracker/sitemap.xml)

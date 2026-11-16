@@ -1,0 +1,1311 @@
+# Ad Monetization Tracker, full text
+
+Source: https://albeasystems.github.io/ad-monetization-tracker/
+
+# English
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/en/ -->
+## Ad Monetization Tracker: Your AdMob and AdSense earnings, on your iPhone.
+
+Read-only, straight from Google to your phone: today, this month and your estimated next payout. No server of ours.
+
+App Store: https://apps.apple.com/
+
+## Revenue, eCPM, countries and formats in one scroll
+
+The numbers you open the consoles for, sized for a glance on your phone.
+
+- Countries: Where your revenue comes from, on a map and in a ranked list.
+- Ad formats: Banner, interstitial, rewarded and more, with eCPM and match rate.
+- Apps and sites: Each app and site with revenue, impressions, eCPM and trend.
+- Calendar and goal: Every day at a glance, your best days and progress to a monthly goal.
+- Reports: A PDF and two CSV files for any period. Part of Pro.
+
+## Your earnings on the home screen
+
+Two widgets keep the number in view without opening the app.
+
+- Ad earnings: Today, this month and the last seven days. Small, medium and lock screen.
+- Goal and payment: Progress to your monthly goal and the estimated balance towards the payment threshold.
+
+## Straight from Google to your phone
+
+No server of ours sits in between, so your earnings are never sent to us.
+
+- You sign in with Google and grant read-only access.
+- Your phone asks Google for the reports and shows them to you.
+- The sign-in stays in the iPhone Keychain. Sign out removes it.
+
+## Free, with a one-time Pro
+
+Free
+
+- All dashboards, calendar and monthly goal
+- Home screen and lock screen widgets
+- Sample data, no account needed
+- Ads, with a rewarded video for one hour without them
+
+Pro
+
+- No ads
+- Alerts you set yourself
+- PDF and CSV reports
+- One purchase, no subscription
+
+## Questions
+
+### Is it really free?
+
+Yes. The free version shows ads. A one-time Pro purchase removes them and adds alerts and PDF or CSV reports. A rewarded video also gives you one hour without ads.
+
+### Do I need an account with you?
+
+No. There is no account and no server of ours. You sign in with Google and the app talks to Google directly from your phone.
+
+### What can the app see in my Google account?
+
+Read-only access to your AdMob and AdSense reports. It cannot change anything, see payment details or read your email.
+
+### Are the numbers final?
+
+No. AdMob and AdSense report estimated earnings and Google finalises them at the end of the month. The payment balance is an estimate made by the app, because Google does not provide it.
+
+### Can I try it without connecting Google?
+
+Yes. The app opens with sample data so you can look around first.
+
+### Is this an official Google app?
+
+No. It is an independent app by Albea Systems and is not affiliated with, endorsed by or sponsored by Google.
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/en/support/ -->
+## Support
+
+Answers to common questions. If you do not find yours, write to us.
+
+## How do I connect my Google account?
+
+Open Settings in the app, tap Sign in with Google, choose the account that has AdMob or AdSense and accept read-only access.
+
+## Why does the app say it is showing sample data?
+
+Until you connect Google, the app shows sample numbers so you can look around. Connect your account in Settings to see your own earnings.
+
+## Why do the numbers differ from Google's console?
+
+Google reports estimates and finalises them at month end. Dates follow your account's reporting time zone and the currency can differ. The payment balance is an estimate made by the app.
+
+## The app says my Google session expired.
+
+Google sessions can expire. Pull down to refresh. If it still fails, sign out and sign in again from Settings.
+
+## How do I sign out or remove access?
+
+In Settings, tap Sign out. You can also revoke access from your Google account permissions.
+
+## How do I restore Pro on a new phone?
+
+Open Settings and tap Restore purchases, using the same Apple ID you bought Pro with.
+
+## Contact us
+
+Write to us and tell us your iOS version and what happened. albeasystems@gmail.com
+
+# Español
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/es/ -->
+## Ad Monetization Tracker: Tus ingresos de AdMob y AdSense, en tu iPhone.
+
+Solo lectura, directo de Google a tu móvil: hoy, este mes y tu próximo pago estimado. Sin servidor nuestro.
+
+App Store: https://apps.apple.com/
+
+## Ingresos, eCPM, países y formatos en una sola pantalla
+
+Las cifras por las que abres las consolas, a tamaño de vistazo en el móvil.
+
+- Países: De dónde vienen tus ingresos, en un mapa y en una lista ordenada.
+- Formatos de anuncio: Banner, intersticial, con recompensa y más, con eCPM y tasa de coincidencia.
+- Apps y sitios: Cada app y sitio con ingresos, impresiones, eCPM y tendencia.
+- Calendario y objetivo: Cada día de un vistazo, tus mejores días y el avance hacia el objetivo mensual.
+- Informes: Un PDF y dos archivos CSV de cualquier periodo. Forma parte de Pro.
+
+## Tus ingresos en la pantalla de inicio
+
+Dos widgets mantienen la cifra a la vista sin abrir la app.
+
+- Ingresos: Hoy, este mes y los últimos siete días. Tamaño pequeño, mediano y pantalla de bloqueo.
+- Objetivo y pago: El avance hacia tu objetivo mensual y el saldo estimado hacia el umbral de pago.
+
+## Directo de Google a tu móvil
+
+Ningún servidor nuestro en medio: tus ingresos no nos llegan nunca.
+
+- Inicias sesión con Google y concedes acceso de solo lectura.
+- Tu móvil pide los informes a Google y te los muestra.
+- La sesión se guarda en el llavero del iPhone. Cerrar sesión la borra.
+
+## Gratis, con un Pro de pago único
+
+Gratis
+
+- Todos los paneles, el calendario y el objetivo mensual
+- Widgets de inicio y de pantalla de bloqueo
+- Datos de ejemplo, sin cuenta
+- Anuncios, con un vídeo con recompensa para una hora sin ellos
+
+Pro
+
+- Sin anuncios
+- Alertas que configuras tú
+- Informes PDF y CSV
+- Una sola compra, sin suscripción
+
+## Preguntas
+
+### ¿Es realmente gratis?
+
+Sí. La versión gratuita muestra anuncios. Una compra única de Pro los quita y añade alertas e informes PDF o CSV. Un vídeo con recompensa también te da una hora sin anuncios.
+
+### ¿Necesito una cuenta con vosotros?
+
+No. No hay cuenta ni servidor nuestro. Inicias sesión con Google y la app habla con Google directamente desde tu móvil.
+
+### ¿Qué puede ver la app de mi cuenta de Google?
+
+Acceso de solo lectura a tus informes de AdMob y AdSense. No puede cambiar nada, ver datos de pago ni leer tu correo.
+
+### ¿Las cifras son definitivas?
+
+No. AdMob y AdSense informan ingresos estimados y Google los cierra a final de mes. El saldo de pago es una estimación de la app, porque Google no lo ofrece.
+
+### ¿Puedo probarla sin conectar Google?
+
+Sí. La app se abre con datos de ejemplo para que puedas echar un vistazo primero.
+
+### ¿Es una app oficial de Google?
+
+No. Es una app independiente de Albea Systems y no está afiliada a Google, ni avalada ni patrocinada por Google.
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/es/support/ -->
+## Soporte
+
+Respuestas a las preguntas más habituales. Si no encuentras la tuya, escríbenos.
+
+## ¿Cómo conecto mi cuenta de Google?
+
+Abre Ajustes en la app, toca Iniciar sesión con Google, elige la cuenta que tiene AdMob o AdSense y acepta el acceso de solo lectura.
+
+## ¿Por qué la app dice que muestra datos de ejemplo?
+
+Hasta que conectes Google, la app muestra cifras de ejemplo para que puedas echar un vistazo. Conecta tu cuenta en Ajustes para ver tus propios ingresos.
+
+## ¿Por qué las cifras difieren de la consola de Google?
+
+Google informa estimaciones y las cierra a final de mes. Las fechas siguen la zona horaria de informes de tu cuenta y la moneda puede ser distinta. El saldo de pago es una estimación de la app.
+
+## La app dice que mi sesión de Google ha caducado.
+
+Las sesiones de Google pueden caducar. Desliza hacia abajo para actualizar. Si sigue fallando, cierra sesión y vuelve a iniciarla desde Ajustes.
+
+## ¿Cómo cierro sesión o quito el acceso?
+
+En Ajustes, toca Cerrar sesión. También puedes revocar el acceso desde los permisos de tu cuenta de Google.
+
+## ¿Cómo restauro Pro en un móvil nuevo?
+
+Abre Ajustes y toca Restaurar compras, con el mismo ID de Apple con el que compraste Pro.
+
+## Contacto
+
+Escríbenos e indícanos tu versión de iOS y qué ha pasado. albeasystems@gmail.com
+
+# Français
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/fr/ -->
+## Ad Monetization Tracker: Vos revenus AdMob et AdSense, sur votre iPhone.
+
+En lecture seule, de Google directement vers votre téléphone : aujourd'hui, ce mois-ci et votre prochain paiement estimé. Aucun serveur de notre part.
+
+App Store: https://apps.apple.com/
+
+## Revenus, eCPM, pays et formats en un seul défilement
+
+Les chiffres pour lesquels vous ouvrez les consoles, à la taille d'un coup d'œil sur votre téléphone.
+
+- Pays: D'où viennent vos revenus, sur une carte et dans un classement.
+- Formats d'annonce: Bannière, interstitiel, avec récompense et plus, avec eCPM et taux de correspondance.
+- Apps et sites: Chaque app et chaque site avec revenus, impressions, eCPM et tendance.
+- Calendrier et objectif: Chaque jour en un coup d'œil, vos meilleurs jours et la progression vers l'objectif mensuel.
+- Rapports: Un PDF et deux fichiers CSV pour n'importe quelle période. Inclus dans Pro.
+
+## Vos revenus sur l'écran d'accueil
+
+Deux widgets gardent le chiffre sous les yeux sans ouvrir l'app.
+
+- Revenus: Aujourd'hui, ce mois-ci et les sept derniers jours. Petit, moyen et écran verrouillé.
+- Objectif et paiement: La progression vers votre objectif mensuel et le solde estimé vers le seuil de paiement.
+
+## De Google directement vers votre téléphone
+
+Aucun serveur de notre part entre les deux : vos revenus ne nous sont jamais envoyés.
+
+- Vous vous connectez avec Google et accordez un accès en lecture seule.
+- Votre téléphone demande les rapports à Google et vous les affiche.
+- La connexion reste dans le Trousseau de l'iPhone. Se déconnecter la supprime.
+
+## Gratuit, avec un Pro à paiement unique
+
+Gratuit
+
+- Tous les tableaux de bord, le calendrier et l'objectif mensuel
+- Widgets d'écran d'accueil et d'écran verrouillé
+- Données d'exemple, sans compte
+- Publicités, avec une vidéo avec récompense pour une heure sans pub
+
+Pro
+
+- Sans publicité
+- Alertes que vous définissez
+- Rapports PDF et CSV
+- Un seul achat, sans abonnement
+
+## Questions
+
+### Est-ce vraiment gratuit ?
+
+Oui. La version gratuite affiche des publicités. Un achat unique de Pro les supprime et ajoute des alertes et des rapports PDF ou CSV. Une vidéo avec récompense vous offre aussi une heure sans publicité.
+
+### Ai-je besoin d'un compte chez vous ?
+
+Non. Il n'y a ni compte ni serveur de notre part. Vous vous connectez avec Google et l'app parle directement à Google depuis votre téléphone.
+
+### Que peut voir l'app dans mon compte Google ?
+
+Un accès en lecture seule à vos rapports AdMob et AdSense. Elle ne peut rien modifier, ne voit pas les informations de paiement et ne lit pas vos e-mails.
+
+### Les chiffres sont-ils définitifs ?
+
+Non. AdMob et AdSense indiquent des revenus estimés que Google finalise à la fin du mois. Le solde de paiement est une estimation de l'app, car Google ne le fournit pas.
+
+### Puis-je essayer sans connecter Google ?
+
+Oui. L'app s'ouvre avec des données d'exemple pour que vous puissiez d'abord regarder autour de vous.
+
+### Est-ce une app officielle de Google ?
+
+Non. C'est une app indépendante d'Albea Systems, ni affiliée à Google, ni approuvée, ni parrainée par Google.
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/fr/support/ -->
+## Assistance
+
+Réponses aux questions courantes. Si vous ne trouvez pas la vôtre, écrivez-nous.
+
+## Comment connecter mon compte Google ?
+
+Ouvrez Réglages dans l'app, touchez Se connecter avec Google, choisissez le compte qui a AdMob ou AdSense et acceptez l'accès en lecture seule.
+
+## Pourquoi l'app indique-t-elle des données d'exemple ?
+
+Tant que vous n'avez pas connecté Google, l'app affiche des chiffres d'exemple pour que vous puissiez regarder autour de vous. Connectez votre compte dans Réglages pour voir vos propres revenus.
+
+## Pourquoi les chiffres diffèrent-ils de la console Google ?
+
+Google indique des estimations et les finalise à la fin du mois. Les dates suivent le fuseau horaire de rapport de votre compte et la devise peut différer. Le solde de paiement est une estimation de l'app.
+
+## L'app indique que ma session Google a expiré.
+
+Les sessions Google peuvent expirer. Tirez vers le bas pour actualiser. Si cela échoue encore, déconnectez-vous puis reconnectez-vous depuis Réglages.
+
+## Comment me déconnecter ou supprimer l'accès ?
+
+Dans Réglages, touchez Se déconnecter. Vous pouvez aussi révoquer l'accès depuis les autorisations de votre compte Google.
+
+## Comment restaurer Pro sur un nouveau téléphone ?
+
+Ouvrez Réglages et touchez Restaurer les achats, avec le même identifiant Apple que celui utilisé pour acheter Pro.
+
+## Nous contacter
+
+Écrivez-nous en indiquant votre version d'iOS et ce qui s'est passé. albeasystems@gmail.com
+
+# Italiano
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/it/ -->
+## Ad Monetization Tracker: I tuoi guadagni AdMob e AdSense, sul tuo iPhone.
+
+In sola lettura, da Google direttamente al tuo telefono: oggi, questo mese e il tuo prossimo pagamento stimato. Nessun nostro server.
+
+App Store: https://apps.apple.com/
+
+## Ricavi, eCPM, paesi e formati in un solo scorrimento
+
+I numeri per cui apri le console, a misura di colpo d'occhio sul telefono.
+
+- Paesi: Da dove arrivano i tuoi ricavi, su una mappa e in una classifica.
+- Formati degli annunci: Banner, interstitial, con premio e altro, con eCPM e tasso di corrispondenza.
+- App e siti: Ogni app e sito con ricavi, impressioni, eCPM e andamento.
+- Calendario e obiettivo: Ogni giorno a colpo d'occhio, i giorni migliori e i progressi verso l'obiettivo mensile.
+- Report: Un PDF e due file CSV per qualsiasi periodo. Fa parte di Pro.
+
+## I tuoi guadagni nella schermata Home
+
+Due widget tengono il numero sotto gli occhi senza aprire l'app.
+
+- Guadagni: Oggi, questo mese e gli ultimi sette giorni. Piccolo, medio e schermata di blocco.
+- Obiettivo e pagamento: I progressi verso l'obiettivo mensile e il saldo stimato verso la soglia di pagamento.
+
+## Da Google direttamente al tuo telefono
+
+Nessun nostro server in mezzo: i tuoi guadagni non ci arrivano mai.
+
+- Accedi con Google e concedi l'accesso in sola lettura.
+- Il tuo telefono chiede i report a Google e te li mostra.
+- L'accesso resta nel Portachiavi dell'iPhone. Esci per eliminarlo.
+
+## Gratis, con un Pro a pagamento unico
+
+Gratis
+
+- Tutti i pannelli, il calendario e l'obiettivo mensile
+- Widget per Home e schermata di blocco
+- Dati di esempio, senza account
+- Pubblicità, con un video con premio per un'ora senza
+
+Pro
+
+- Nessuna pubblicità
+- Avvisi che imposti tu
+- Report PDF e CSV
+- Un solo acquisto, nessun abbonamento
+
+## Domande
+
+### È davvero gratis?
+
+Sì. La versione gratuita mostra pubblicità. Un acquisto unico di Pro la toglie e aggiunge avvisi e report PDF o CSV. Anche un video con premio ti dà un'ora senza pubblicità.
+
+### Mi serve un account con voi?
+
+No. Non c'è alcun account né un nostro server. Accedi con Google e l'app parla direttamente con Google dal tuo telefono.
+
+### Cosa può vedere l'app nel mio account Google?
+
+Accesso in sola lettura ai tuoi report AdMob e AdSense. Non può modificare nulla, vedere i dati di pagamento né leggere la tua posta.
+
+### I numeri sono definitivi?
+
+No. AdMob e AdSense riportano guadagni stimati che Google finalizza a fine mese. Il saldo di pagamento è una stima dell'app, perché Google non lo fornisce.
+
+### Posso provarla senza collegare Google?
+
+Sì. L'app si apre con dati di esempio così puoi dare prima un'occhiata.
+
+### È un'app ufficiale di Google?
+
+No. È un'app indipendente di Albea Systems, non affiliata a Google, né approvata o sponsorizzata da Google.
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/it/support/ -->
+## Assistenza
+
+Risposte alle domande più comuni. Se non trovi la tua, scrivici.
+
+## Come collego il mio account Google?
+
+Apri Impostazioni nell'app, tocca Accedi con Google, scegli l'account che ha AdMob o AdSense e accetta l'accesso in sola lettura.
+
+## Perché l'app dice che mostra dati di esempio?
+
+Finché non colleghi Google, l'app mostra numeri di esempio per permetterti di dare un'occhiata. Collega il tuo account in Impostazioni per vedere i tuoi guadagni.
+
+## Perché i numeri differiscono dalla console di Google?
+
+Google riporta stime e le finalizza a fine mese. Le date seguono il fuso orario dei report del tuo account e la valuta può essere diversa. Il saldo di pagamento è una stima dell'app.
+
+## L'app dice che la mia sessione Google è scaduta.
+
+Le sessioni Google possono scadere. Trascina verso il basso per aggiornare. Se continua a non funzionare, esci e accedi di nuovo da Impostazioni.
+
+## Come esco o rimuovo l'accesso?
+
+In Impostazioni, tocca Esci. Puoi anche revocare l'accesso dalle autorizzazioni del tuo account Google.
+
+## Come ripristino Pro su un nuovo telefono?
+
+Apri Impostazioni e tocca Ripristina acquisti, con lo stesso ID Apple con cui hai acquistato Pro.
+
+## Contattaci
+
+Scrivici indicando la tua versione di iOS e cosa è successo. albeasystems@gmail.com
+
+# Deutsch
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/de/ -->
+## Ad Monetization Tracker: Deine AdMob- und AdSense-Einnahmen, auf deinem iPhone.
+
+Nur Lesezugriff, direkt von Google auf dein Handy: heute, diesen Monat und deine voraussichtliche nächste Auszahlung. Kein Server von uns.
+
+App Store: https://apps.apple.com/
+
+## Umsatz, eCPM, Länder und Formate in einem Bildlauf
+
+Die Zahlen, für die du die Konsolen öffnest, im Format für einen Blick auf dem Handy.
+
+- Länder: Woher dein Umsatz kommt, auf einer Karte und in einer Rangliste.
+- Anzeigenformate: Banner, Interstitial, Rewarded und mehr, mit eCPM und Match-Rate.
+- Apps und Websites: Jede App und Website mit Umsatz, Impressionen, eCPM und Trend.
+- Kalender und Ziel: Jeder Tag auf einen Blick, deine besten Tage und der Fortschritt zum Monatsziel.
+- Berichte: Ein PDF und zwei CSV-Dateien für jeden Zeitraum. Teil von Pro.
+
+## Deine Einnahmen auf dem Home-Bildschirm
+
+Zwei Widgets halten die Zahl im Blick, ohne die App zu öffnen.
+
+- Einnahmen: Heute, dieser Monat und die letzten sieben Tage. Klein, mittel und Sperrbildschirm.
+- Ziel und Auszahlung: Der Fortschritt zu deinem Monatsziel und der geschätzte Stand bis zur Auszahlungsschwelle.
+
+## Direkt von Google auf dein Handy
+
+Kein Server von uns dazwischen, deine Einnahmen werden nie an uns gesendet.
+
+- Du meldest dich mit Google an und gibst nur Lesezugriff frei.
+- Dein Handy fragt Google nach den Berichten und zeigt sie dir.
+- Die Anmeldung bleibt im Schlüsselbund des iPhones. Abmelden entfernt sie.
+
+## Gratis, mit einmaligem Pro
+
+Gratis
+
+- Alle Dashboards, Kalender und Monatsziel
+- Widgets für Home- und Sperrbildschirm
+- Beispieldaten, kein Konto nötig
+- Werbung, mit einem Rewarded-Video für eine Stunde ohne
+
+Pro
+
+- Keine Werbung
+- Warnungen, die du selbst festlegst
+- PDF- und CSV-Berichte
+- Ein Kauf, kein Abo
+
+## Fragen
+
+### Ist es wirklich kostenlos?
+
+Ja. Die kostenlose Version zeigt Werbung. Ein einmaliger Pro-Kauf entfernt sie und schaltet Warnungen sowie PDF- oder CSV-Berichte frei. Ein Rewarded-Video gibt dir außerdem eine Stunde ohne Werbung.
+
+### Brauche ich ein Konto bei euch?
+
+Nein. Es gibt kein Konto und keinen Server von uns. Du meldest dich mit Google an und die App spricht direkt von deinem Handy mit Google.
+
+### Was kann die App in meinem Google-Konto sehen?
+
+Lesezugriff auf deine AdMob- und AdSense-Berichte. Sie kann nichts ändern, keine Zahlungsdaten sehen und keine E-Mails lesen.
+
+### Sind die Zahlen endgültig?
+
+Nein. AdMob und AdSense melden geschätzte Einnahmen, die Google am Monatsende abschließt. Der Auszahlungsstand ist eine Schätzung der App, weil Google ihn nicht bereitstellt.
+
+### Kann ich sie ohne Google-Verbindung ausprobieren?
+
+Ja. Die App öffnet sich mit Beispieldaten, damit du dich zuerst umsehen kannst.
+
+### Ist das eine offizielle Google-App?
+
+Nein. Es ist eine unabhängige App von Albea Systems und steht in keiner Verbindung zu Google, wird von Google weder unterstützt noch gesponsert.
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/de/support/ -->
+## Support
+
+Antworten auf häufige Fragen. Wenn du deine nicht findest, schreib uns.
+
+## Wie verbinde ich mein Google-Konto?
+
+Öffne in der App die Einstellungen, tippe auf Mit Google anmelden, wähle das Konto mit AdMob oder AdSense und bestätige den Lesezugriff.
+
+## Warum zeigt die App Beispieldaten an?
+
+Bis du Google verbindest, zeigt die App Beispielzahlen, damit du dich umsehen kannst. Verbinde dein Konto in den Einstellungen, um deine eigenen Einnahmen zu sehen.
+
+## Warum weichen die Zahlen von der Google-Konsole ab?
+
+Google meldet Schätzungen und schließt sie am Monatsende ab. Daten folgen der Berichtszeitzone deines Kontos und die Währung kann abweichen. Der Auszahlungsstand ist eine Schätzung der App.
+
+## Die App meldet, dass meine Google-Sitzung abgelaufen ist.
+
+Google-Sitzungen können ablaufen. Ziehe zum Aktualisieren nach unten. Klappt es weiterhin nicht, melde dich in den Einstellungen ab und wieder an.
+
+## Wie melde ich mich ab oder entziehe den Zugriff?
+
+Tippe in den Einstellungen auf Abmelden. Du kannst den Zugriff auch in den Berechtigungen deines Google-Kontos widerrufen.
+
+## Wie stelle ich Pro auf einem neuen Handy wieder her?
+
+Öffne die Einstellungen und tippe auf Käufe wiederherstellen, mit derselben Apple-ID, mit der du Pro gekauft hast.
+
+## Kontakt
+
+Schreib uns und nenne deine iOS-Version und was passiert ist. albeasystems@gmail.com
+
+# Português
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/pt/ -->
+## Ad Monetization Tracker: Seus ganhos do AdMob e AdSense, no seu iPhone.
+
+Somente leitura, direto do Google para o seu celular: hoje, este mês e seu próximo pagamento estimado. Sem servidor nosso.
+
+App Store: https://apps.apple.com/
+
+## Receita, eCPM, países e formatos em uma única rolagem
+
+Os números pelos quais você abre os consoles, no tamanho de uma olhada no celular.
+
+- Países: De onde vem sua receita, em um mapa e em uma lista ordenada.
+- Formatos de anúncio: Banner, intersticial, com recompensa e mais, com eCPM e taxa de correspondência.
+- Apps e sites: Cada app e site com receita, impressões, eCPM e tendência.
+- Calendário e meta: Cada dia de relance, seus melhores dias e o progresso até a meta mensal.
+- Relatórios: Um PDF e dois arquivos CSV de qualquer período. Faz parte do Pro.
+
+## Seus ganhos na tela de início
+
+Dois widgets mantêm o número à vista sem abrir o app.
+
+- Ganhos: Hoje, este mês e os últimos sete dias. Pequeno, médio e tela de bloqueio.
+- Meta e pagamento: O progresso até sua meta mensal e o saldo estimado rumo ao limite de pagamento.
+
+## Direto do Google para o seu celular
+
+Nenhum servidor nosso no meio: seus ganhos nunca chegam até nós.
+
+- Você entra com o Google e concede acesso somente leitura.
+- Seu celular pede os relatórios ao Google e os mostra para você.
+- O login fica no Chaveiro do iPhone. Sair o remove.
+
+## Grátis, com um Pro de pagamento único
+
+Grátis
+
+- Todos os painéis, o calendário e a meta mensal
+- Widgets de início e de tela de bloqueio
+- Dados de exemplo, sem conta
+- Anúncios, com um vídeo com recompensa para uma hora sem eles
+
+Pro
+
+- Sem anúncios
+- Alertas que você mesmo define
+- Relatórios em PDF e CSV
+- Uma única compra, sem assinatura
+
+## Perguntas
+
+### É mesmo grátis?
+
+Sim. A versão gratuita mostra anúncios. Uma compra única do Pro os remove e acrescenta alertas e relatórios em PDF ou CSV. Um vídeo com recompensa também dá uma hora sem anúncios.
+
+### Preciso de uma conta com vocês?
+
+Não. Não há conta nem servidor nosso. Você entra com o Google e o app fala direto com o Google a partir do seu celular.
+
+### O que o app pode ver na minha conta do Google?
+
+Acesso somente leitura aos seus relatórios do AdMob e AdSense. Ele não pode alterar nada, ver dados de pagamento nem ler seu e-mail.
+
+### Os números são definitivos?
+
+Não. AdMob e AdSense informam ganhos estimados que o Google finaliza no fim do mês. O saldo de pagamento é uma estimativa do app, porque o Google não o fornece.
+
+### Posso testar sem conectar o Google?
+
+Sim. O app abre com dados de exemplo para você dar uma olhada primeiro.
+
+### É um app oficial do Google?
+
+Não. É um app independente da Albea Systems e não é afiliado, endossado nem patrocinado pelo Google.
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/pt/support/ -->
+## Suporte
+
+Respostas às perguntas mais comuns. Se não achar a sua, escreva para nós.
+
+## Como conecto minha conta do Google?
+
+Abra Ajustes no app, toque em Entrar com o Google, escolha a conta que tem AdMob ou AdSense e aceite o acesso somente leitura.
+
+## Por que o app diz que mostra dados de exemplo?
+
+Até você conectar o Google, o app mostra números de exemplo para você dar uma olhada. Conecte sua conta em Ajustes para ver seus próprios ganhos.
+
+## Por que os números diferem do console do Google?
+
+O Google informa estimativas e as finaliza no fim do mês. As datas seguem o fuso horário de relatórios da sua conta e a moeda pode ser diferente. O saldo de pagamento é uma estimativa do app.
+
+## O app diz que minha sessão do Google expirou.
+
+As sessões do Google podem expirar. Puxe para baixo para atualizar. Se ainda falhar, saia e entre de novo em Ajustes.
+
+## Como saio ou removo o acesso?
+
+Em Ajustes, toque em Sair. Você também pode revogar o acesso nas permissões da sua conta do Google.
+
+## Como restauro o Pro em um celular novo?
+
+Abra Ajustes e toque em Restaurar compras, com o mesmo ID Apple com que você comprou o Pro.
+
+## Fale conosco
+
+Escreva para nós e diga a versão do seu iOS e o que aconteceu. albeasystems@gmail.com
+
+# العربية
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/ar/ -->
+## Ad Monetization Tracker: أرباحك من AdMob وAdSense، على آيفونك.
+
+للقراءة فقط وبشكل مباشر من Google إلى هاتفك: اليوم وهذا الشهر ودفعتك القادمة التقديرية. بلا خادم من طرفنا.
+
+App Store: https://apps.apple.com/
+
+## الإيرادات وeCPM والدول والتنسيقات في تمريرة واحدة
+
+الأرقام التي تفتح لوحات التحكم من أجلها، بحجم يكفي نظرة سريعة على هاتفك.
+
+- الدول: من أين تأتي إيراداتك، على خريطة وفي قائمة مرتبة.
+- تنسيقات الإعلانات: البانر والبيني والمكافأة وغيرها، مع eCPM ومعدل المطابقة.
+- التطبيقات والمواقع: كل تطبيق وموقع مع الإيرادات والمرات الظاهرة وeCPM والاتجاه.
+- التقويم والهدف: كل يوم بنظرة واحدة وأفضل أيامك والتقدم نحو هدفك الشهري.
+- التقارير: ملف PDF وملفا CSV لأي فترة. ضمن نسخة Pro.
+
+## أرباحك على الشاشة الرئيسية
+
+ودجتان تبقيان الرقم أمامك دون فتح التطبيق.
+
+- الأرباح: اليوم وهذا الشهر وآخر سبعة أيام. حجم صغير ومتوسط وشاشة القفل.
+- الهدف والدفعة: التقدم نحو هدفك الشهري والرصيد التقديري نحو حد الدفع.
+
+## مباشرة من Google إلى هاتفك
+
+لا خادم من طرفنا في الوسط، لذلك لا تصلنا أرباحك أبدًا.
+
+- تسجل الدخول بحساب Google وتمنح وصولًا للقراءة فقط.
+- يطلب هاتفك التقارير من Google ويعرضها لك.
+- يبقى تسجيل الدخول في سلسلة مفاتيح الآيفون. تسجيل الخروج يزيله.
+
+## مجاني، مع Pro بدفعة واحدة
+
+مجاني
+
+- كل اللوحات والتقويم والهدف الشهري
+- ودجات الشاشة الرئيسية وشاشة القفل
+- بيانات تجريبية دون حساب
+- إعلانات، مع فيديو مكافأة لساعة بلا إعلانات
+
+Pro
+
+- بلا إعلانات
+- تنبيهات تضبطها بنفسك
+- تقارير PDF وCSV
+- عملية شراء واحدة بلا اشتراك
+
+## الأسئلة
+
+### هل هو مجاني فعلًا؟
+
+نعم. النسخة المجانية تعرض إعلانات. شراء Pro لمرة واحدة يزيلها ويضيف التنبيهات وتقارير PDF أو CSV. كما يمنحك فيديو المكافأة ساعة بلا إعلانات.
+
+### هل أحتاج إلى حساب لديكم؟
+
+لا. لا يوجد حساب ولا خادم من طرفنا. تسجل الدخول بحساب Google ويتحدث التطبيق مع Google مباشرة من هاتفك.
+
+### ماذا يستطيع التطبيق أن يرى في حساب Google الخاص بي؟
+
+وصول للقراءة فقط إلى تقارير AdMob وAdSense. لا يستطيع تغيير أي شيء ولا رؤية بيانات الدفع ولا قراءة بريدك.
+
+### هل الأرقام نهائية؟
+
+لا. تعرض AdMob وAdSense أرباحًا تقديرية تُنهيها Google في آخر الشهر. رصيد الدفع تقدير من التطبيق لأن Google لا توفره.
+
+### هل يمكنني تجربته دون ربط Google؟
+
+نعم. يفتح التطبيق ببيانات تجريبية لتتجول فيه أولًا.
+
+### هل هذا تطبيق رسمي من Google؟
+
+لا. هو تطبيق مستقل من Albea Systems وغير تابع لـ Google ولا تؤيده ولا ترعاه.
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/ar/support/ -->
+## الدعم
+
+إجابات عن الأسئلة الشائعة. إذا لم تجد سؤالك فراسلنا.
+
+## كيف أربط حساب Google؟
+
+افتح الإعدادات في التطبيق واضغط تسجيل الدخول بحساب Google واختر الحساب الذي يملك AdMob أو AdSense ووافق على الوصول للقراءة فقط.
+
+## لماذا يقول التطبيق إنه يعرض بيانات تجريبية؟
+
+إلى أن تربط Google يعرض التطبيق أرقامًا تجريبية لتتجول فيه. اربط حسابك من الإعدادات لترى أرباحك الفعلية.
+
+## لماذا تختلف الأرقام عن لوحة Google؟
+
+تعرض Google تقديرات وتنهيها في نهاية الشهر. تتبع التواريخ المنطقة الزمنية لتقارير حسابك وقد تختلف العملة. رصيد الدفع تقدير من التطبيق.
+
+## يقول التطبيق إن جلسة Google انتهت.
+
+قد تنتهي جلسات Google. اسحب للأسفل للتحديث. إذا استمر الفشل فسجّل الخروج ثم الدخول مجددًا من الإعدادات.
+
+## كيف أسجل الخروج أو أزيل الوصول؟
+
+اضغط تسجيل الخروج في الإعدادات. ويمكنك أيضًا إلغاء الوصول من أذونات حساب Google.
+
+## كيف أستعيد Pro على هاتف جديد؟
+
+افتح الإعدادات واضغط استعادة المشتريات، بمعرّف Apple نفسه الذي اشتريت به Pro.
+
+## تواصل معنا
+
+راسلنا واذكر إصدار iOS لديك وما الذي حدث. albeasystems@gmail.com
+
+# 简体中文
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/zh/ -->
+## Ad Monetization Tracker: 在 iPhone 上查看你的 AdMob 和 AdSense 收入。
+
+只读，直接从 Google 到你的手机：今天、本月和下一次付款的预估。没有我们的服务器。
+
+App Store: https://apps.apple.com/
+
+## 营收、eCPM、国家和地区、广告形式，一屏看完
+
+你为之打开后台的那些数字，按手机上扫一眼的尺寸呈现。
+
+- 国家和地区: 收入来自哪里，用地图和排行榜呈现。
+- 广告形式: 横幅、插页、激励视频等，附带 eCPM 和匹配率。
+- 应用和网站: 每个应用和网站的收入、展示次数、eCPM 和趋势。
+- 日历和目标: 每天一目了然，看到最佳日期以及月度目标的进度。
+- 报告: 任意时段的一份 PDF 和两份 CSV 文件。属于 Pro。
+
+## 主屏幕上的收入
+
+两个小组件，不用打开应用就能看到数字。
+
+- 广告收入: 今天、本月和最近七天。小、中尺寸和锁定屏幕。
+- 目标与付款: 月度目标的进度，以及距离付款门槛的预估余额。
+
+## 从 Google 直达你的手机
+
+中间没有我们的服务器，所以你的收入永远不会发送给我们。
+
+- 你用 Google 登录，并授予只读权限。
+- 你的手机向 Google 请求报告，并显示给你。
+- 登录信息保存在 iPhone 钥匙串中。退出登录即可删除。
+
+## 免费，另有一次性购买的 Pro
+
+免费
+
+- 全部看板、日历和月度目标
+- 主屏幕和锁定屏幕小组件
+- 示例数据，无需账号
+- 含广告，观看一段激励视频可免广告一小时
+
+Pro
+
+- 没有广告
+- 自己设置的提醒
+- PDF 和 CSV 报告
+- 一次购买，无需订阅
+
+## 常见问题
+
+### 真的免费吗？
+
+是的。免费版含广告。一次性购买 Pro 可去掉广告，并增加提醒以及 PDF 或 CSV 报告。观看一段激励视频也能免广告一小时。
+
+### 需要在你们这里注册账号吗？
+
+不需要。没有账号，也没有我们的服务器。你用 Google 登录，应用直接从你的手机与 Google 通信。
+
+### 应用能看到我 Google 账号里的什么？
+
+只读访问你的 AdMob 和 AdSense 报告。它不能更改任何内容，看不到付款信息，也不会读取你的邮件。
+
+### 这些数字是最终的吗？
+
+不是。AdMob 和 AdSense 报告的是预估收入，Google 会在月底结算。付款余额是应用自己的预估，因为 Google 不提供该数据。
+
+### 不连接 Google 可以试用吗？
+
+可以。应用打开时带有示例数据，你可以先看看。
+
+### 这是 Google 官方应用吗？
+
+不是。它是 Albea Systems 的独立应用，与 Google 无关联，也未获得 Google 的认可或赞助。
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/zh/support/ -->
+## 支持
+
+常见问题的解答。如果没有找到你的问题，请给我们写信。
+
+## 如何连接我的 Google 账号？
+
+在应用中打开设置，点按“使用 Google 登录”，选择拥有 AdMob 或 AdSense 的账号，并接受只读访问。
+
+## 为什么应用说正在显示示例数据？
+
+在你连接 Google 之前，应用会显示示例数字，方便你先看看。在设置中连接账号，即可看到你自己的收入。
+
+## 为什么数字与 Google 后台不一致？
+
+Google 报告的是预估值，并在月底结算。日期遵循你账号的报告时区，货币也可能不同。付款余额是应用做出的预估。
+
+## 应用提示我的 Google 会话已过期。
+
+Google 会话可能过期。下拉刷新。如果仍然失败，请在设置中退出登录后重新登录。
+
+## 如何退出登录或移除访问权限？
+
+在设置中点按“退出登录”。你也可以在 Google 账号权限中撤销访问。
+
+## 如何在新手机上恢复 Pro？
+
+打开设置并点按“恢复购买”，使用购买 Pro 时的同一个 Apple ID。
+
+## 联系我们
+
+请给我们写信，说明你的 iOS 版本和发生了什么。 albeasystems@gmail.com
+
+# हिन्दी
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/hi/ -->
+## Ad Monetization Tracker: आपकी AdMob और AdSense की कमाई, आपके iPhone पर।
+
+केवल-पढ़ने के लिए, सीधे Google से आपके फ़ोन तक: आज, इस महीने और आपका अगला अनुमानित भुगतान। हमारा कोई सर्वर नहीं।
+
+App Store: https://apps.apple.com/
+
+## राजस्व, eCPM, देश और फ़ॉर्मैट, एक ही स्क्रॉल में
+
+वे आँकड़े जिनके लिए आप कंसोल खोलते हैं, फ़ोन पर एक नज़र के आकार में।
+
+- देश: आपका राजस्व कहाँ से आता है, नक्शे पर और क्रमबद्ध सूची में।
+- विज्ञापन फ़ॉर्मैट: बैनर, इंटरस्टिशियल, रिवॉर्डेड और अन्य, eCPM और मैच रेट के साथ।
+- ऐप और साइट: हर ऐप और साइट, राजस्व, इंप्रेशन, eCPM और रुझान के साथ।
+- कैलेंडर और लक्ष्य: हर दिन एक नज़र में, आपके सबसे अच्छे दिन और मासिक लक्ष्य की प्रगति।
+- रिपोर्ट: किसी भी अवधि के लिए एक PDF और दो CSV फ़ाइलें। Pro का हिस्सा।
+
+## होम स्क्रीन पर आपकी कमाई
+
+दो विजेट ऐप खोले बिना आँकड़ा आपकी नज़र में रखते हैं।
+
+- विज्ञापन की कमाई: आज, इस महीने और पिछले सात दिन। छोटा, मध्यम और लॉक स्क्रीन।
+- लक्ष्य और भुगतान: आपके मासिक लक्ष्य की प्रगति और भुगतान सीमा की ओर अनुमानित शेष।
+
+## सीधे Google से आपके फ़ोन तक
+
+बीच में हमारा कोई सर्वर नहीं, इसलिए आपकी कमाई हमें कभी नहीं भेजी जाती।
+
+- आप Google से साइन-इन करते हैं और केवल-पढ़ने की अनुमति देते हैं।
+- आपका फ़ोन Google से रिपोर्ट माँगता है और आपको दिखाता है।
+- साइन-इन iPhone की कीचेन में रहता है। साइन आउट करने पर वह हट जाता है।
+
+## मुफ़्त, और एक बार का Pro
+
+मुफ़्त
+
+- सभी डैशबोर्ड, कैलेंडर और मासिक लक्ष्य
+- होम और लॉक स्क्रीन विजेट
+- नमूना डेटा, खाते की ज़रूरत नहीं
+- विज्ञापन, और रिवॉर्डेड वीडियो से एक घंटा बिना विज्ञापन
+
+Pro
+
+- कोई विज्ञापन नहीं
+- आपके तय किए अलर्ट
+- PDF और CSV रिपोर्ट
+- एक बार की खरीद, कोई सदस्यता नहीं
+
+## प्रश्न
+
+### क्या यह सच में मुफ़्त है?
+
+हाँ। मुफ़्त संस्करण में विज्ञापन दिखते हैं। Pro की एक बार की खरीद उन्हें हटाती है और अलर्ट तथा PDF या CSV रिपोर्ट जोड़ती है। रिवॉर्डेड वीडियो से भी एक घंटा बिना विज्ञापन मिलता है।
+
+### क्या मुझे आपके यहाँ खाता चाहिए?
+
+नहीं। कोई खाता नहीं है और हमारा कोई सर्वर नहीं है। आप Google से साइन-इन करते हैं और ऐप आपके फ़ोन से सीधे Google से बात करता है।
+
+### ऐप मेरे Google खाते में क्या देख सकता है?
+
+आपकी AdMob और AdSense रिपोर्ट तक केवल-पढ़ने की पहुँच। यह कुछ बदल नहीं सकता, भुगतान का ब्योरा नहीं देख सकता और आपका ईमेल नहीं पढ़ सकता।
+
+### क्या आँकड़े अंतिम हैं?
+
+नहीं। AdMob और AdSense अनुमानित कमाई बताते हैं, जिसे Google महीने के अंत में अंतिम करता है। भुगतान शेष ऐप का अपना अनुमान है, क्योंकि Google उसे उपलब्ध नहीं कराता।
+
+### क्या मैं Google जोड़े बिना आज़मा सकता हूँ?
+
+हाँ। ऐप नमूना डेटा के साथ खुलता है ताकि आप पहले देख सकें।
+
+### क्या यह Google का आधिकारिक ऐप है?
+
+नहीं। यह Albea Systems का स्वतंत्र ऐप है और Google से संबद्ध नहीं है, न ही Google द्वारा समर्थित या प्रायोजित है।
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/hi/support/ -->
+## सहायता
+
+आम प्रश्नों के उत्तर। अगर आपका प्रश्न न मिले, तो हमें लिखें।
+
+## मैं अपना Google खाता कैसे जोड़ूँ?
+
+ऐप में सेटिंग्स खोलें, Google से साइन-इन करें पर टैप करें, वह खाता चुनें जिसमें AdMob या AdSense है और केवल-पढ़ने की पहुँच स्वीकार करें।
+
+## ऐप क्यों कहता है कि वह नमूना डेटा दिखा रहा है?
+
+जब तक आप Google नहीं जोड़ते, ऐप नमूना आँकड़े दिखाता है ताकि आप देख सकें। अपनी कमाई देखने के लिए सेटिंग्स में अपना खाता जोड़ें।
+
+## आँकड़े Google कंसोल से अलग क्यों हैं?
+
+Google अनुमान बताता है और महीने के अंत में उन्हें अंतिम करता है। तारीखें आपके खाते के रिपोर्टिंग समय क्षेत्र का पालन करती हैं और मुद्रा अलग हो सकती है। भुगतान शेष ऐप का अनुमान है।
+
+## ऐप कहता है कि मेरा Google सत्र समाप्त हो गया।
+
+Google सत्र समाप्त हो सकते हैं। रीफ़्रेश करने के लिए नीचे खींचें। अगर फिर भी विफल हो, तो सेटिंग्स से साइन आउट करके फिर साइन-इन करें।
+
+## मैं साइन आउट कैसे करूँ या पहुँच कैसे हटाऊँ?
+
+सेटिंग्स में साइन आउट पर टैप करें। आप अपने Google खाते की अनुमतियों से भी पहुँच रद्द कर सकते हैं।
+
+## नए फ़ोन पर Pro कैसे पुनर्स्थापित करूँ?
+
+सेटिंग्स खोलें और खरीदारी पुनर्स्थापित करें पर टैप करें, उसी Apple ID से जिससे आपने Pro खरीदा था।
+
+## हमसे संपर्क करें
+
+हमें लिखें और अपना iOS संस्करण तथा क्या हुआ, बताएँ। albeasystems@gmail.com
+
+# 日本語
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/ja/ -->
+## Ad Monetization Tracker: AdMobとAdSenseの収益を、iPhoneで。
+
+読み取り専用で、Googleから直接あなたのスマートフォンへ。今日、今月、次の支払い見込み。当社のサーバーはありません。
+
+App Store: https://apps.apple.com/
+
+## 収益、eCPM、国と地域、フォーマットをひとつのスクロールで
+
+管理画面を開いて確かめる数字を、スマートフォンでひと目で見られるサイズに。
+
+- 国と地域: 収益がどこから来ているかを、地図とランキングで。
+- 広告フォーマット: バナー、インタースティシャル、リワードなどを、eCPMとマッチ率つきで。
+- アプリとサイト: アプリとサイトごとの収益、インプレッション、eCPM、推移。
+- カレンダーと目標: 毎日をひと目で。最高の日と月間目標の進み具合。
+- レポート: 好きな期間のPDF1つとCSV2つ。Proに含まれます。
+
+## ホーム画面で収益を確認
+
+2つのウィジェットが、アプリを開かずに数字を見せてくれます。
+
+- 広告収益: 今日、今月、直近7日間。小、中、ロック画面。
+- 目標と支払い: 月間目標の進み具合と、支払いしきい値までの推定残高。
+
+## Googleから直接スマートフォンへ
+
+間に当社のサーバーはないので、収益が当社に送られることはありません。
+
+- Googleでサインインし、読み取り専用のアクセスを許可します。
+- スマートフォンがGoogleにレポートを要求し、表示します。
+- サインイン情報はiPhoneのキーチェーンに残ります。サインアウトすると削除されます。
+
+## 無料、そして買い切りのPro
+
+無料
+
+- すべてのダッシュボード、カレンダー、月間目標
+- ホーム画面とロック画面のウィジェット
+- サンプルデータ、アカウント不要
+- 広告あり、リワード動画で1時間は広告なし
+
+Pro
+
+- 広告なし
+- 自分で設定するアラート
+- PDFとCSVのレポート
+- 一度の購入、サブスクリプションなし
+
+## よくある質問
+
+### 本当に無料ですか？
+
+はい。無料版には広告が表示されます。Proを一度購入すると広告がなくなり、アラートとPDFまたはCSVのレポートが使えます。リワード動画を見ても1時間は広告が出ません。
+
+### 御社のアカウントは必要ですか？
+
+いいえ。アカウントも当社のサーバーもありません。Googleでサインインすると、アプリがスマートフォンから直接Googleと通信します。
+
+### アプリは私のGoogleアカウントの何が見えますか？
+
+AdMobとAdSenseのレポートへの読み取り専用アクセスだけです。何も変更できず、支払い情報も見られず、メールも読めません。
+
+### 数字は確定ですか？
+
+いいえ。AdMobとAdSenseは推定収益を報告し、Googleが月末に確定します。支払い残高はGoogleが提供していないため、アプリによる見積もりです。
+
+### Googleを接続せずに試せますか？
+
+はい。アプリはサンプルデータで開くので、まず見て回れます。
+
+### Google公式のアプリですか？
+
+いいえ。Albea Systemsの独立したアプリで、Googleとは提携しておらず、Googleによる承認やスポンサーも受けていません。
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/ja/support/ -->
+## サポート
+
+よくある質問への回答です。見つからない場合はご連絡ください。
+
+## Googleアカウントはどう接続しますか？
+
+アプリで設定を開き、「Googleでサインイン」をタップし、AdMobまたはAdSenseのあるアカウントを選んで、読み取り専用のアクセスを許可してください。
+
+## なぜサンプルデータを表示していると出ますか？
+
+Googleを接続するまで、アプリは見て回れるようサンプルの数字を表示します。設定でアカウントを接続すると、ご自身の収益が表示されます。
+
+## 数字がGoogleの管理画面と違うのはなぜですか？
+
+Googleは見積もりを報告し、月末に確定します。日付はアカウントのレポート用タイムゾーンに従い、通貨が異なる場合もあります。支払い残高はアプリによる見積もりです。
+
+## Googleのセッションが期限切れと表示されます。
+
+Googleのセッションは期限切れになることがあります。下に引いて更新してください。それでも失敗する場合は、設定からサインアウトして、もう一度サインインしてください。
+
+## サインアウトやアクセスの削除はどうしますか？
+
+設定で「サインアウト」をタップしてください。Googleアカウントの権限からアクセスを取り消すこともできます。
+
+## 新しいスマートフォンでProを復元するには？
+
+設定を開き「購入を復元」をタップしてください。Proを購入したときと同じApple IDを使います。
+
+## お問い合わせ
+
+iOSのバージョンと、何が起きたかを書いてご連絡ください。 albeasystems@gmail.com
+
+# 한국어
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/ko/ -->
+## Ad Monetization Tracker: AdMob과 AdSense 수익을 iPhone에서.
+
+읽기 전용으로 Google에서 바로 휴대폰으로: 오늘, 이번 달, 다음 지급 예상액. 당사 서버는 없습니다.
+
+App Store: https://apps.apple.com/
+
+## 수익, eCPM, 국가, 광고 형식을 한 번의 스크롤로
+
+콘솔을 열어 확인하던 숫자를 휴대폰에서 한눈에 볼 수 있는 크기로.
+
+- 국가: 수익이 어디서 오는지 지도와 순위 목록으로.
+- 광고 형식: 배너, 전면, 보상형 등을 eCPM과 매치율과 함께.
+- 앱과 사이트: 앱과 사이트별 수익, 노출 수, eCPM, 추세.
+- 캘린더와 목표: 매일을 한눈에, 최고의 날과 월 목표 달성률.
+- 보고서: 원하는 기간의 PDF 하나와 CSV 파일 둘. Pro에 포함됩니다.
+
+## 홈 화면에서 수익 확인
+
+앱을 열지 않아도 숫자가 보이는 위젯 두 개.
+
+- 광고 수익: 오늘, 이번 달, 최근 7일. 작은 크기, 중간 크기, 잠금 화면.
+- 목표와 지급: 월 목표 달성률과 지급 기준액까지의 추정 잔액.
+
+## Google에서 바로 휴대폰으로
+
+중간에 당사 서버가 없어서 수익 정보가 당사로 전송되지 않습니다.
+
+- Google로 로그인하고 읽기 전용 접근을 허용합니다.
+- 휴대폰이 Google에 보고서를 요청해 보여 줍니다.
+- 로그인 정보는 iPhone 키체인에 남습니다. 로그아웃하면 삭제됩니다.
+
+## 무료, 그리고 한 번 결제하는 Pro
+
+무료
+
+- 모든 대시보드, 캘린더, 월 목표
+- 홈 화면 및 잠금 화면 위젯
+- 샘플 데이터, 계정 불필요
+- 광고 있음, 보상형 동영상으로 1시간 광고 없음
+
+Pro
+
+- 광고 없음
+- 직접 설정하는 알림
+- PDF 및 CSV 보고서
+- 한 번 구입, 구독 없음
+
+## 질문
+
+### 정말 무료인가요?
+
+네. 무료 버전에는 광고가 표시됩니다. Pro를 한 번 구입하면 광고가 사라지고 알림과 PDF 또는 CSV 보고서가 추가됩니다. 보상형 동영상을 봐도 1시간 동안 광고가 없습니다.
+
+### 여기에 계정이 필요한가요?
+
+아니요. 계정도 당사 서버도 없습니다. Google로 로그인하면 앱이 휴대폰에서 Google과 직접 통신합니다.
+
+### 앱이 내 Google 계정에서 무엇을 볼 수 있나요?
+
+AdMob과 AdSense 보고서에 대한 읽기 전용 접근만 가능합니다. 아무것도 바꿀 수 없고, 결제 정보를 볼 수 없으며, 이메일도 읽지 않습니다.
+
+### 숫자는 확정된 값인가요?
+
+아니요. AdMob과 AdSense는 추정 수익을 보고하고 Google이 월말에 확정합니다. 지급 잔액은 Google이 제공하지 않아 앱이 계산한 추정치입니다.
+
+### Google을 연결하지 않고 써 볼 수 있나요?
+
+네. 앱은 샘플 데이터로 열리므로 먼저 둘러볼 수 있습니다.
+
+### Google 공식 앱인가요?
+
+아니요. Albea Systems의 독립 앱이며 Google과 제휴 관계가 없고 Google의 승인이나 후원을 받지 않았습니다.
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/ko/support/ -->
+## 지원
+
+자주 묻는 질문에 대한 답변입니다. 찾는 내용이 없으면 문의해 주세요.
+
+## Google 계정은 어떻게 연결하나요?
+
+앱에서 설정을 열고 Google로 로그인을 누른 뒤 AdMob 또는 AdSense가 있는 계정을 선택하고 읽기 전용 접근을 허용하세요.
+
+## 앱이 샘플 데이터를 보여 주고 있다고 나오는 이유는 무엇인가요?
+
+Google을 연결하기 전까지 앱은 둘러볼 수 있도록 샘플 숫자를 보여 줍니다. 설정에서 계정을 연결하면 본인의 수익이 표시됩니다.
+
+## 숫자가 Google 콘솔과 다른 이유는 무엇인가요?
+
+Google은 추정치를 보고하고 월말에 확정합니다. 날짜는 계정의 보고 시간대를 따르며 통화가 다를 수 있습니다. 지급 잔액은 앱이 계산한 추정치입니다.
+
+## Google 세션이 만료되었다고 나옵니다.
+
+Google 세션은 만료될 수 있습니다. 아래로 당겨 새로고침하세요. 그래도 실패하면 설정에서 로그아웃한 뒤 다시 로그인하세요.
+
+## 로그아웃하거나 접근을 삭제하려면 어떻게 하나요?
+
+설정에서 로그아웃을 누르세요. Google 계정 권한에서 접근을 취소할 수도 있습니다.
+
+## 새 휴대폰에서 Pro를 복원하려면 어떻게 하나요?
+
+설정을 열고 구입 복원을 누르세요. Pro를 구입할 때 사용한 Apple ID와 같은 계정이어야 합니다.
+
+## 문의하기
+
+iOS 버전과 어떤 일이 있었는지 적어서 보내 주세요. albeasystems@gmail.com
+
+# Tiếng Việt
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/vi/ -->
+## Ad Monetization Tracker: Thu nhập AdMob và AdSense của bạn, ngay trên iPhone.
+
+Chỉ đọc, đi thẳng từ Google đến điện thoại của bạn: hôm nay, tháng này và khoản thanh toán ước tính tiếp theo. Không có máy chủ của chúng tôi.
+
+App Store: https://apps.apple.com/
+
+## Doanh thu, eCPM, quốc gia và định dạng trong một lần cuộn
+
+Những con số bạn mở bảng điều khiển để xem, ở kích thước đủ để liếc nhanh trên điện thoại.
+
+- Quốc gia: Doanh thu đến từ đâu, trên bản đồ và trong danh sách xếp hạng.
+- Định dạng quảng cáo: Biểu ngữ, xen kẽ, có thưởng và hơn nữa, kèm eCPM và tỷ lệ khớp.
+- Ứng dụng và trang web: Từng ứng dụng và trang web với doanh thu, lượt hiển thị, eCPM và xu hướng.
+- Lịch và mục tiêu: Mỗi ngày trong một cái nhìn, những ngày tốt nhất và tiến độ đến mục tiêu tháng.
+- Báo cáo: Một tệp PDF và hai tệp CSV cho bất kỳ khoảng thời gian nào. Thuộc gói Pro.
+
+## Thu nhập của bạn trên màn hình chính
+
+Hai tiện ích giữ con số trong tầm mắt mà không cần mở ứng dụng.
+
+- Thu nhập quảng cáo: Hôm nay, tháng này và bảy ngày gần nhất. Cỡ nhỏ, vừa và màn hình khóa.
+- Mục tiêu và thanh toán: Tiến độ đến mục tiêu tháng và số dư ước tính so với ngưỡng thanh toán.
+
+## Đi thẳng từ Google đến điện thoại của bạn
+
+Không có máy chủ của chúng tôi ở giữa, nên thu nhập của bạn không bao giờ được gửi cho chúng tôi.
+
+- Bạn đăng nhập bằng Google và cấp quyền chỉ đọc.
+- Điện thoại của bạn hỏi Google các báo cáo rồi hiển thị cho bạn.
+- Thông tin đăng nhập nằm trong Chuỗi khóa của iPhone. Đăng xuất sẽ xóa nó.
+
+## Miễn phí, kèm Pro mua một lần
+
+Miễn phí
+
+- Mọi bảng điều khiển, lịch và mục tiêu tháng
+- Tiện ích màn hình chính và màn hình khóa
+- Dữ liệu mẫu, không cần tài khoản
+- Có quảng cáo, xem video có thưởng để được một giờ không quảng cáo
+
+Pro
+
+- Không quảng cáo
+- Cảnh báo do bạn tự đặt
+- Báo cáo PDF và CSV
+- Mua một lần, không đăng ký
+
+## Câu hỏi
+
+### Có thật sự miễn phí không?
+
+Có. Bản miễn phí hiển thị quảng cáo. Mua Pro một lần sẽ bỏ quảng cáo và thêm cảnh báo cùng báo cáo PDF hoặc CSV. Xem một video có thưởng cũng cho bạn một giờ không quảng cáo.
+
+### Tôi có cần tài khoản với các bạn không?
+
+Không. Không có tài khoản và không có máy chủ của chúng tôi. Bạn đăng nhập bằng Google và ứng dụng làm việc trực tiếp với Google từ điện thoại của bạn.
+
+### Ứng dụng nhìn thấy gì trong tài khoản Google của tôi?
+
+Quyền chỉ đọc đối với báo cáo AdMob và AdSense của bạn. Ứng dụng không thể thay đổi gì, không thấy thông tin thanh toán và không đọc email của bạn.
+
+### Các con số có phải là cuối cùng không?
+
+Không. AdMob và AdSense báo cáo thu nhập ước tính và Google chốt vào cuối tháng. Số dư thanh toán là ước tính của ứng dụng, vì Google không cung cấp.
+
+### Tôi có thể dùng thử mà không kết nối Google không?
+
+Có. Ứng dụng mở ra với dữ liệu mẫu để bạn xem qua trước.
+
+### Đây có phải ứng dụng chính thức của Google không?
+
+Không. Đây là ứng dụng độc lập của Albea Systems, không liên kết với Google, cũng không được Google xác nhận hay tài trợ.
+
+<!-- https://albeasystems.github.io/ad-monetization-tracker/vi/support/ -->
+## Hỗ trợ
+
+Giải đáp các câu hỏi thường gặp. Nếu không thấy câu hỏi của bạn, hãy viết thư cho chúng tôi.
+
+## Làm sao để kết nối tài khoản Google của tôi?
+
+Mở Cài đặt trong ứng dụng, chạm Đăng nhập bằng Google, chọn tài khoản có AdMob hoặc AdSense và chấp nhận quyền chỉ đọc.
+
+## Vì sao ứng dụng báo đang hiển thị dữ liệu mẫu?
+
+Cho đến khi bạn kết nối Google, ứng dụng hiển thị số liệu mẫu để bạn xem qua. Hãy kết nối tài khoản trong Cài đặt để thấy thu nhập của chính bạn.
+
+## Vì sao số liệu khác với bảng điều khiển của Google?
+
+Google báo cáo số ước tính và chốt vào cuối tháng. Ngày theo múi giờ báo cáo của tài khoản bạn và tiền tệ có thể khác. Số dư thanh toán là ước tính của ứng dụng.
+
+## Ứng dụng báo phiên Google của tôi đã hết hạn.
+
+Phiên Google có thể hết hạn. Kéo xuống để làm mới. Nếu vẫn lỗi, hãy đăng xuất rồi đăng nhập lại từ Cài đặt.
+
+## Làm sao để đăng xuất hoặc xóa quyền truy cập?
+
+Trong Cài đặt, chạm Đăng xuất. Bạn cũng có thể thu hồi quyền truy cập trong phần quyền của tài khoản Google.
+
+## Làm sao để khôi phục Pro trên điện thoại mới?
+
+Mở Cài đặt và chạm Khôi phục giao dịch mua, dùng cùng ID Apple mà bạn đã dùng để mua Pro.
+
+## Liên hệ chúng tôi
+
+Hãy viết thư cho chúng tôi, nêu phiên bản iOS và điều đã xảy ra. albeasystems@gmail.com

@@ -1,0 +1,21 @@
+{
+  "name": "Ad Monetization Tracker",
+  "short_name": "Ad Tracker",
+  "start_url": "/ad-monetization-tracker/",
+  "scope": "/ad-monetization-tracker/",
+  "display": "browser",
+  "background_color": "#eef5f1",
+  "theme_color": "#eef5f1",
+  "icons": [
+    {
+      "src": "/ad-monetization-tracker/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/ad-monetization-tracker/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
