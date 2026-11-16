@@ -2,7 +2,7 @@
 
 Somente leitura, direto do Google para o seu celular: hoje, este mês e seu próximo pagamento estimado. Sem servidor nosso.
 
-App Store: https://apps.apple.com/
+App Store: https://apps.apple.com/app/id6835190761
 
 ## Receita, eCPM, países e formatos em uma única rolagem
 

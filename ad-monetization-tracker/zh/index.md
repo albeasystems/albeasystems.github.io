@@ -2,7 +2,7 @@
 
 只读，直接从 Google 到你的手机：今天、本月和下一次付款的预估。没有我们的服务器。
 
-App Store: https://apps.apple.com/
+App Store: https://apps.apple.com/app/id6835190761
 
 ## 营收、eCPM、国家和地区、广告形式，一屏看完
 

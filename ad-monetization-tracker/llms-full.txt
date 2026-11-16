@@ -9,7 +9,7 @@ Source: https://albeasystems.github.io/ad-monetization-tracker/
 
 Read-only, straight from Google to your phone: today, this month and your estimated next payout. No server of ours.
 
-App Store: https://apps.apple.com/
+App Store: https://apps.apple.com/app/id6835190761
 
 ## Revenue, eCPM, countries and formats in one scroll
 
@@ -118,7 +118,7 @@ Write to us and tell us your iOS version and what happened. albeasystems@gmail.c
 
 Solo lectura, directo de Google a tu móvil: hoy, este mes y tu próximo pago estimado. Sin servidor nuestro.
 
-App Store: https://apps.apple.com/
+App Store: https://apps.apple.com/app/id6835190761
 
 ## Ingresos, eCPM, países y formatos en una sola pantalla
 
@@ -227,7 +227,7 @@ Escríbenos e indícanos tu versión de iOS y qué ha pasado. albeasystems@gmail
 
 En lecture seule, de Google directement vers votre téléphone : aujourd'hui, ce mois-ci et votre prochain paiement estimé. Aucun serveur de notre part.
 
-App Store: https://apps.apple.com/
+App Store: https://apps.apple.com/app/id6835190761
 
 ## Revenus, eCPM, pays et formats en un seul défilement
 
@@ -336,7 +336,7 @@ Ouvrez Réglages et touchez Restaurer les achats, avec le même identifiant Appl
 
 In sola lettura, da Google direttamente al tuo telefono: oggi, questo mese e il tuo prossimo pagamento stimato. Nessun nostro server.
 
-App Store: https://apps.apple.com/
+App Store: https://apps.apple.com/app/id6835190761
 
 ## Ricavi, eCPM, paesi e formati in un solo scorrimento
 
@@ -445,7 +445,7 @@ Scrivici indicando la tua versione di iOS e cosa è successo. albeasystems@gmail
 
 Nur Lesezugriff, direkt von Google auf dein Handy: heute, diesen Monat und deine voraussichtliche nächste Auszahlung. Kein Server von uns.
 
-App Store: https://apps.apple.com/
+App Store: https://apps.apple.com/app/id6835190761
 
 ## Umsatz, eCPM, Länder und Formate in einem Bildlauf
 
@@ -554,7 +554,7 @@ Schreib uns und nenne deine iOS-Version und was passiert ist. albeasystems@gmail
 
 Somente leitura, direto do Google para o seu celular: hoje, este mês e seu próximo pagamento estimado. Sem servidor nosso.
 
-App Store: https://apps.apple.com/
+App Store: https://apps.apple.com/app/id6835190761
 
 ## Receita, eCPM, países e formatos em uma única rolagem
 
@@ -663,7 +663,7 @@ Escreva para nós e diga a versão do seu iOS e o que aconteceu. albeasystems@gm
 
 للقراءة فقط وبشكل مباشر من Google إلى هاتفك: اليوم وهذا الشهر ودفعتك القادمة التقديرية. بلا خادم من طرفنا.
 
-App Store: https://apps.apple.com/
+App Store: https://apps.apple.com/app/id6835190761
 
 ## الإيرادات وeCPM والدول والتنسيقات في تمريرة واحدة
 
@@ -772,7 +772,7 @@ Pro
 
 只读，直接从 Google 到你的手机：今天、本月和下一次付款的预估。没有我们的服务器。
 
-App Store: https://apps.apple.com/
+App Store: https://apps.apple.com/app/id6835190761
 
 ## 营收、eCPM、国家和地区、广告形式，一屏看完
 
@@ -881,7 +881,7 @@ Google 会话可能过期。下拉刷新。如果仍然失败，请在设置中�
 
 केवल-पढ़ने के लिए, सीधे Google से आपके फ़ोन तक: आज, इस महीने और आपका अगला अनुमानित भुगतान। हमारा कोई सर्वर नहीं।
 
-App Store: https://apps.apple.com/
+App Store: https://apps.apple.com/app/id6835190761
 
 ## राजस्व, eCPM, देश और फ़ॉर्मैट, एक ही स्क्रॉल में
 
@@ -990,7 +990,7 @@ Google सत्र समाप्त हो सकते हैं। री�
 
 読み取り専用で、Googleから直接あなたのスマートフォンへ。今日、今月、次の支払い見込み。当社のサーバーはありません。
 
-App Store: https://apps.apple.com/
+App Store: https://apps.apple.com/app/id6835190761
 
 ## 収益、eCPM、国と地域、フォーマットをひとつのスクロールで
 
@@ -1099,7 +1099,7 @@ iOSのバージョンと、何が起きたかを書いてご連絡ください�
 
 읽기 전용으로 Google에서 바로 휴대폰으로: 오늘, 이번 달, 다음 지급 예상액. 당사 서버는 없습니다.
 
-App Store: https://apps.apple.com/
+App Store: https://apps.apple.com/app/id6835190761
 
 ## 수익, eCPM, 국가, 광고 형식을 한 번의 스크롤로
 
@@ -1208,7 +1208,7 @@ iOS 버전과 어떤 일이 있었는지 적어서 보내 주세요. albeasystem
 
 Chỉ đọc, đi thẳng từ Google đến điện thoại của bạn: hôm nay, tháng này và khoản thanh toán ước tính tiếp theo. Không có máy chủ của chúng tôi.
 
-App Store: https://apps.apple.com/
+App Store: https://apps.apple.com/app/id6835190761
 
 ## Doanh thu, eCPM, quốc gia và định dạng trong một lần cuộn
 

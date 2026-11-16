@@ -2,7 +2,7 @@
 
 En lecture seule, de Google directement vers votre téléphone : aujourd'hui, ce mois-ci et votre prochain paiement estimé. Aucun serveur de notre part.
 
-App Store: https://apps.apple.com/
+App Store: https://apps.apple.com/app/id6835190761
 
 ## Revenus, eCPM, pays et formats en un seul défilement
 

@@ -2,7 +2,7 @@
 
 읽기 전용으로 Google에서 바로 휴대폰으로: 오늘, 이번 달, 다음 지급 예상액. 당사 서버는 없습니다.
 
-App Store: https://apps.apple.com/
+App Store: https://apps.apple.com/app/id6835190761
 
 ## 수익, eCPM, 국가, 광고 형식을 한 번의 스크롤로
 

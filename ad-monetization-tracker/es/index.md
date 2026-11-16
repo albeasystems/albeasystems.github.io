@@ -2,7 +2,7 @@
 
 Solo lectura, directo de Google a tu móvil: hoy, este mes y tu próximo pago estimado. Sin servidor nuestro.
 
-App Store: https://apps.apple.com/
+App Store: https://apps.apple.com/app/id6835190761
 
 ## Ingresos, eCPM, países y formatos en una sola pantalla
 

@@ -9,7 +9,7 @@
 - Data: Google AdMob API and AdSense Management API, read-only, requested by the app on the device. Figures are estimates that Google finalises at month end; the payment balance is an app estimate.
 - Sample data: the app works without an account on built-in sample data.
 - Languages of the app and of this site: English, Español, Français, Italiano, Deutsch, Português, العربية, 简体中文, हिन्दी, 日本語, 한국어, Tiếng Việt.
-- Download: https://apps.apple.com/
+- Download: https://apps.apple.com/app/id6835190761
 - Contact: albeasystems@gmail.com
 
 ## English

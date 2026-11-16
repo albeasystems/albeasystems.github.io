@@ -2,7 +2,7 @@
 
 Read-only, straight from Google to your phone: today, this month and your estimated next payout. No server of ours.
 
-App Store: https://apps.apple.com/
+App Store: https://apps.apple.com/app/id6835190761
 
 ## Revenue, eCPM, countries and formats in one scroll
 

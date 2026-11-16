@@ -2,7 +2,7 @@
 
 Nur Lesezugriff, direkt von Google auf dein Handy: heute, diesen Monat und deine voraussichtliche nächste Auszahlung. Kein Server von uns.
 
-App Store: https://apps.apple.com/
+App Store: https://apps.apple.com/app/id6835190761
 
 ## Umsatz, eCPM, Länder und Formate in einem Bildlauf
 

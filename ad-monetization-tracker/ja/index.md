@@ -2,7 +2,7 @@
 
 読み取り専用で、Googleから直接あなたのスマートフォンへ。今日、今月、次の支払い見込み。当社のサーバーはありません。
 
-App Store: https://apps.apple.com/
+App Store: https://apps.apple.com/app/id6835190761
 
 ## 収益、eCPM、国と地域、フォーマットをひとつのスクロールで
 

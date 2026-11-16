@@ -2,7 +2,7 @@
 
 Chỉ đọc, đi thẳng từ Google đến điện thoại của bạn: hôm nay, tháng này và khoản thanh toán ước tính tiếp theo. Không có máy chủ của chúng tôi.
 
-App Store: https://apps.apple.com/
+App Store: https://apps.apple.com/app/id6835190761
 
 ## Doanh thu, eCPM, quốc gia và định dạng trong một lần cuộn
 
