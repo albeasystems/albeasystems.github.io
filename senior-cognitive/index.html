@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Senior Cognitive</title>
+<meta name="description" content="Senior Cognitive: ejercicios diarios para la mente de los mayores. Daily mind exercises for older people.">
+<link rel="alternate" hreflang="es" href="es/">
+<link rel="alternate" hreflang="en" href="en/">
+<link rel="alternate" hreflang="x-default" href="es/">
+<link rel="icon" href="assets/img/icon-96.png" type="image/png">
+<link rel="stylesheet" href="assets/css/site.css">
+<noscript><meta http-equiv="refresh" content="0; url=es/"></noscript>
+<script>
+  // Send English-speaking browsers to the English page; everyone else gets Spanish.
+  (function () {
+    var l = (navigator.languages && navigator.languages[0]) || navigator.language || "es";
+    location.replace(l.toLowerCase().indexOf("en") === 0 ? "en/" : "es/");
+  })();
+</script>
+<style>
+  .pick { min-height: 100dvh; display: grid; place-content: center; gap: 28px; padding: 24px; text-align: center; justify-items: center; }
+  .pick .row { display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; }
+</style>
+</head>
+<body>
+<main class="pick">
+  <a class="brand" href="es/"><img src="assets/img/icon-96.png" width="42" height="42" alt=""><span>Senior Cognitive</span></a>
+  <div class="row">
+    <a class="btn" href="es/" hreflang="es" lang="es">Leer en español</a>
+    <a class="btn btn--ghost" href="en/" hreflang="en" lang="en">Read in English</a>
+  </div>
+</main>
+</body>
+</html>
